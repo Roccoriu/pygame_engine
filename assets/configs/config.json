@@ -1,0 +1,17 @@
+{
+    "title": "Snake Clone Propper",
+    "fps": 10,
+    "movement_speed": 20,
+    "snake_size": [
+        20,
+        20
+    ],
+    "assets": {
+        "sounds": {
+            "death": "assets/sounds/death_sound.ogg"
+        },
+        "fonts": {
+            "main_font": "assets/fonts/OptimusPrinceps.ttf"
+        }
+    }
+}
